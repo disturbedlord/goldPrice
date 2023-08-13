@@ -1,0 +1,17 @@
+{
+  "name": "GoldPrice_Backend",
+  "version": "1.0.0",
+  "description": "Gold Price backend",
+  "main": "main.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
